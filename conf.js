@@ -44,7 +44,7 @@ jsproxy_config({
         'a.007.workers.dev': 1,
         'a.hehe.workers.dev': 1,
         'a.lulu.workers.dev': 1,
-        'shrill-unit-8594.jsproxy.workers.dev': 1,
+        'solitary-bush-a8dc.hhsj.workers.dev': 1,
       }
     }
   },
